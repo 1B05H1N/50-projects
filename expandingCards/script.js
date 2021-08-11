@@ -1,14 +1,20 @@
-const panels = document.querySelectorAll('.panel')
+const insert = document.getElementById('insert')
 
-panels.forEach(panel => {
-    panel.addEventListener('click', () => {
-        removeActiveClasses()
-        panel.classList.add('active')
-    })
+window.addEventListener('keydown', (event) => {
+    insert.innerHTML = `
+  <div class="key">
+  ${event.key === ' ' ? 'Space' : event.key} 
+  <small>event.key</small>
+</div>
+
+<div class="key">
+  ${event.keyCode}
+  <small>event.keyCode</small>
+</div>
+
+<div class="key">
+  ${event.code}
+  <small>event.code</small>
+</div>
+  `
 })
-
-function removeActiveClasses() {
-    panels.forEach(panel => {
-        panel.classList.remove('active')
-    })
-}
