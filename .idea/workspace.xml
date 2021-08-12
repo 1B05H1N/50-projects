@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4637e13-7bf9-40c1-8876-370a3ac47918" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/doubleHeart/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doubleHeart/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doubleHeart/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628785390732</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Section 29">
+      <created>1628786515629</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1628786515629</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +149,7 @@
     <MESSAGE value="section 11" />
     <MESSAGE value="updates" />
     <MESSAGE value="Updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
+    <MESSAGE value="Section 29" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 29" />
   </component>
 </project>
