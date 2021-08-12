@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4637e13-7bf9-40c1-8876-370a3ac47918" name="Default Changelist" comment="Updates">
-      <change afterPath="$PROJECT_DIR$/contentPlaceholder/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contentPlaceholder/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contentPlaceholder/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doubleVerticalSlider/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doubleVerticalSlider/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doubleVerticalSlider/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stickyNavbar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stickyNavbar/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stickyNavbar/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e4637e13-7bf9-40c1-8876-370a3ac47918" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/toastNotification/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toastNotification/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toastNotification/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628712486513</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updates">
+      <created>1628784880371</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1628784880371</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
