@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4637e13-7bf9-40c1-8876-370a3ac47918" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/passwordGenerator/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passwordGenerator/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passwordGenerator/style.css" afterDir="false" />
+    <list default="true" id="e4637e13-7bf9-40c1-8876-370a3ac47918" name="Default Changelist" comment="password generator">
+      <change afterPath="$PROJECT_DIR$/goodCheapFast/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goodCheapFast/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goodCheapFast/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,14 @@
       <updated>1628660756389</updated>
       <workItem from="1628660757923" duration="2004000" />
     </task>
+    <task id="LOCAL-00001" summary="password generator">
+      <created>1628837800691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1628837800691</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -61,5 +69,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="password generator" />
+    <option name="LAST_COMMIT_MESSAGE" value="password generator" />
   </component>
 </project>
