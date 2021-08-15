@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4637e13-7bf9-40c1-8876-370a3ac47918" name="Default Changelist" comment="hoverboard">
-      <change afterPath="$PROJECT_DIR$/mobileTabNavigation/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobileTabNavigation/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobileTabNavigation/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pokedex/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pokedex/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pokedex/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e4637e13-7bf9-40c1-8876-370a3ac47918" name="Default Changelist" comment="mobile tab navigation">
+      <change afterPath="$PROJECT_DIR$/passwordStrengthBackground/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passwordStrengthBackground/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passwordStrengthBackground/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +31,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -57,7 +54,7 @@
       <workItem from="1628660757923" duration="2004000" />
       <workItem from="1629007228033" duration="20000" />
       <workItem from="1629007252950" duration="36000" />
-      <workItem from="1629007290411" duration="3326000" />
+      <workItem from="1629007290411" duration="4184000" />
     </task>
     <task id="LOCAL-00001" summary="password generator">
       <created>1628837800691</created>
@@ -108,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629061099545</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="mobile tab navigation">
+      <created>1629061996205</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1629061996205</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,12 +131,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="password generator" />
     <MESSAGE value="good fast cheap" />
     <MESSAGE value="notes app" />
     <MESSAGE value="animated countdown" />
     <MESSAGE value="image carousel" />
     <MESSAGE value="hoverboard" />
-    <option name="LAST_COMMIT_MESSAGE" value="hoverboard" />
+    <MESSAGE value="mobile tab navigation" />
+    <option name="LAST_COMMIT_MESSAGE" value="mobile tab navigation" />
   </component>
 </project>
