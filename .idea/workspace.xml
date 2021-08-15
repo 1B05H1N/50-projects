@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4637e13-7bf9-40c1-8876-370a3ac47918" name="Default Changelist" comment="image carousel">
-      <change afterPath="$PROJECT_DIR$/hoverboard/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoverboard/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hoverboard/style.css" afterDir="false" />
+    <list default="true" id="e4637e13-7bf9-40c1-8876-370a3ac47918" name="Default Changelist" comment="hoverboard">
+      <change afterPath="$PROJECT_DIR$/mobileTabNavigation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobileTabNavigation/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobileTabNavigation/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokedex/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokedex/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pokedex/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +57,7 @@
       <workItem from="1628660757923" duration="2004000" />
       <workItem from="1629007228033" duration="20000" />
       <workItem from="1629007252950" duration="36000" />
-      <workItem from="1629007290411" duration="2397000" />
+      <workItem from="1629007290411" duration="3326000" />
     </task>
     <task id="LOCAL-00001" summary="password generator">
       <created>1628837800691</created>
@@ -97,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629060372379</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hoverboard">
+      <created>1629061099545</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1629061099545</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +132,7 @@
     <MESSAGE value="notes app" />
     <MESSAGE value="animated countdown" />
     <MESSAGE value="image carousel" />
-    <option name="LAST_COMMIT_MESSAGE" value="image carousel" />
+    <MESSAGE value="hoverboard" />
+    <option name="LAST_COMMIT_MESSAGE" value="hoverboard" />
   </component>
 </project>
