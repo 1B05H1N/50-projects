@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4637e13-7bf9-40c1-8876-370a3ac47918" name="Default Changelist" comment="password generator">
-      <change afterPath="$PROJECT_DIR$/goodCheapFast/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goodCheapFast/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goodCheapFast/style.css" afterDir="false" />
+    <list default="true" id="e4637e13-7bf9-40c1-8876-370a3ac47918" name="Default Changelist" comment="good fast cheap">
+      <change afterPath="$PROJECT_DIR$/notesApp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notesApp/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notesApp/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +44,9 @@
       <option name="presentableId" value="Default" />
       <updated>1628660756389</updated>
       <workItem from="1628660757923" duration="2004000" />
+      <workItem from="1629007228033" duration="20000" />
+      <workItem from="1629007252950" duration="36000" />
+      <workItem from="1629007290411" duration="647000" />
     </task>
     <task id="LOCAL-00001" summary="password generator">
       <created>1628837800691</created>
@@ -52,7 +55,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628837800691</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="good fast cheap">
+      <created>1628839672127</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628839672127</updated>
+    </task>
+    <task id="LOCAL-00003" summary="good fast cheap">
+      <created>1628839837250</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628839837250</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="password generator" />
-    <option name="LAST_COMMIT_MESSAGE" value="password generator" />
+    <MESSAGE value="good fast cheap" />
+    <option name="LAST_COMMIT_MESSAGE" value="good fast cheap" />
   </component>
 </project>
