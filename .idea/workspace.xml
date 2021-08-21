@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4637e13-7bf9-40c1-8876-370a3ac47918" name="Default Changelist" comment="mobile tab navigation">
-      <change afterPath="$PROJECT_DIR$/passwordStrengthBackground/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passwordStrengthBackground/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passwordStrengthBackground/style.css" afterDir="false" />
+    <list default="true" id="e4637e13-7bf9-40c1-8876-370a3ac47918" name="Default Changelist" comment="password strength background">
+      <change afterPath="$PROJECT_DIR$/3dBoxes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3dBoxes/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3dBoxes/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liveUserFilter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liveUserFilter/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/liveUserFilter/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verifyAccountUI/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verifyAccountUI/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verifyAccountUI/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +61,8 @@
       <workItem from="1628660757923" duration="2004000" />
       <workItem from="1629007228033" duration="20000" />
       <workItem from="1629007252950" duration="36000" />
-      <workItem from="1629007290411" duration="4184000" />
+      <workItem from="1629007290411" duration="4471000" />
+      <workItem from="1629526751985" duration="983000" />
     </task>
     <task id="LOCAL-00001" summary="password generator">
       <created>1628837800691</created>
@@ -112,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629061996205</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="password strength background">
+      <created>1629063078716</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1629063078716</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +154,7 @@
     <MESSAGE value="image carousel" />
     <MESSAGE value="hoverboard" />
     <MESSAGE value="mobile tab navigation" />
-    <option name="LAST_COMMIT_MESSAGE" value="mobile tab navigation" />
+    <MESSAGE value="password strength background" />
+    <option name="LAST_COMMIT_MESSAGE" value="password strength background" />
   </component>
 </project>
